@@ -98,7 +98,7 @@
 
 target/xxx.jar 这里是相对pom.xml的位置，改一改jar包名字就ok
 
- <url><scp://user:password@192.168.20.128/home/xxg/Desktop></url>
+ <url><scp://user:password@192.168.20.128/home></url>
 
  这里是远程服务器的用户名、密码、ip、jar包存放位置
 
